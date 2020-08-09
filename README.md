@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 
 <img align="left" alt="anuragsachdeva28's Github Stats" src="https://github-readme-stats.vercel.app/api?username=anuragsachdeva28&show_icons=true&hide_border=true&hide=stars&count_private=true" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&hide_border=true&count_private=true)]
 
 [website]: https://webcrawler-anurag.surge.sh
 [twitter]: https://twitter.com/webcrawlerr
