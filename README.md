@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 -->
 ### Hi there, I'm Anurag - aka [anuragsachdeva28][website] 👋
 
-## I'm a Student, Fresher, and Developer!
-- 🔭 I’m currently working as a Software Engineer Trainee!
+## I'm a Full Stack Developer!
+- 🔭 I’m currently working as a Software Engineer!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to get into a good Software Developement Company
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to watch movies and play Piano
 
 ### Connect with me:
